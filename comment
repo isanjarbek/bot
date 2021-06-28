@@ -1,0 +1,6 @@
+npm init -y
+npm i node-telegram-bot-api
+npm i nodemon
+
+package.jon => start = node index.js, "dev": "nodemon index.js"
+    
